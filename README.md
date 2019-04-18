@@ -1,6 +1,6 @@
 # EmbeddedC
 These files are intended for "Embedded C - AVR" Course
-The Course Contents:-
+# The Course Contents:-
 - Introduction to Atmega 8 Microcontroller
 - Introduction to ATMega8/ATMega16/Atmega32 features
 - Interrupts
