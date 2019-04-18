@@ -13,4 +13,4 @@ These files are intended for "Embedded C - AVR" Course
 - Inter-Integrated Circuit (I2C)
 - Serial Peripheral Interface (SPI)
 - only two final projects can select by the student
-The Course Instructor: Eng. Hossam Arafa
+# Instructor: Eng. Hossam Arafa
