@@ -12,5 +12,5 @@ These files are intended for "Embedded C - AVR" Course
 - Universal Asynchronous Receiver & Transmitter (UART)
 - Inter-Integrated Circuit (I2C)
 - Serial Peripheral Interface (SPI)
-- only two final projects can select by the student
-# Instructor: Eng. Hossam Arafa
+
+## Instructor: Eng. Hossam Arafa
