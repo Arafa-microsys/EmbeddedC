@@ -1,5 +1,6 @@
 # EmbeddedC
-These files are intended for "Embedded C - AVR" Course
+These files are intended for "Embedded C - AVR" Course on Youtube
+https://bit.ly/3ElshJw
 # The Course Contents:-
 - Introduction to Atmega 8 Microcontroller
 - Introduction to ATMega8/ATMega16/Atmega32 features
