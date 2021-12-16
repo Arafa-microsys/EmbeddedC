@@ -12,7 +12,7 @@
 int main(void)
 {
 	DDRD |= (1<<DDD4);
-	OCR0A = 99;
+	OCR0A = 157;
 	TCCR0A |= (1<<WGM01) ;
 	TCCR0B |= (1<<CS00) | (1<<CS02);// Prescaler = 1024
 	TCNT0=0;
